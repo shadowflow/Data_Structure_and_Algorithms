@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hua/CLionProjects/algorithms/allAlgorithms.cpp
+allAlgorithms.h
+/home/hua/CLionProjects/algorithms/allAlgorithms.h
+
+/home/hua/CLionProjects/algorithms/allAlgorithms.h
+iostream
+-
+
+/home/hua/CLionProjects/algorithms/main.cpp
+sortTestHelper.h
+/home/hua/CLionProjects/algorithms/sortTestHelper.h
+allAlgorithms.h
+/home/hua/CLionProjects/algorithms/allAlgorithms.h
+iostream
+-
+fstream
+-
+
+/home/hua/CLionProjects/algorithms/sortTestHelper.h
+iostream
+-
+ctime
+-
+cassert
+-
+
